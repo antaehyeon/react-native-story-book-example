@@ -21,6 +21,7 @@
     "@babel/runtime": "^7.6.2",
     "@react-native-community/eslint-config": "^1.0.0",
     "@storybook/addon-actions": "^5.3.18",
+    "@storybook/addon-info": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addon-ondevice-actions": "^5.3.18",
     "@storybook/addons": "^5.3.18",
@@ -38,8 +39,10 @@
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.58.0",
     "prettier": "^2.0.4",
+    "react-docgen-typescript-loader": "^3.7.2",
     "react-dom": "16.11.0",
     "react-test-renderer": "16.11.0",
+    "ts-loader": "^7.0.0",
     "typescript": "^3.8.3"
   },
   "jest": {
